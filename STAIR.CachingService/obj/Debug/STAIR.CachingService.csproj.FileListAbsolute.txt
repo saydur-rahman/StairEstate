@@ -1,0 +1,10 @@
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\bin\Debug\itextsharp.dll
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\bin\Debug\MoreLinq.dll
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\bin\Debug\itextsharp.xml
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\bin\Debug\MoreLinq.xml
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\obj\Debug\STAIR.CachingService.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\bin\Debug\STAIR.CachingService.dll
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\bin\Debug\STAIR.CachingService.pdb
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\obj\Debug\STAIR.CachingService.csprojResolveAssemblyReference.cache
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\obj\Debug\STAIR.CachingService.dll
+C:\Users\Hello\Desktop\again\SourceCode\STAIR.CachingService\obj\Debug\STAIR.CachingService.pdb

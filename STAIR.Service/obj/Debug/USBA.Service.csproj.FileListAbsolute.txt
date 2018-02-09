@@ -1,0 +1,121 @@
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\itextsharp.xml
+D:\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.csprojResolveAssemblyReference.cache
+D:\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.ServiceMessage.resources
+D:\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.csproj.GenerateResource.Cache
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\ServiceMessage.resx
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\ServiceMessage.Designer.cs
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Service.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Service.pdb
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\itextsharp.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\MoreLinq.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\System.Web.Mvc.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.CachingService.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Core.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Data.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.LoggerService.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Model.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.BulkInsert.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\log4net.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.MappingAPI.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.CachingService.pdb
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Core.pdb
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Data.pdb
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.LoggerService.pdb
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Model.pdb
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.xml
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\MoreLinq.xml
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\System.Web.Mvc.xml
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.BulkInsert.pdb
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\log4net.xml
+D:\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.MappingAPI.pdb
+D:\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.dll
+D:\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\ServiceMessage.resx
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\ServiceMessage.Designer.cs
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Service.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Service.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\itextsharp.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\MoreLinq.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.CachingService.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Core.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Data.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.LoggerService.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Model.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\log4net.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.CachingService.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Core.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Data.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.LoggerService.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Model.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\USBA.Model.dll.config
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\itextsharp.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\MoreLinq.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.BulkInsert.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\log4net.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\bin\Debug\EntityFramework.MappingAPI.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.csprojResolveAssemblyReference.cache
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.ServiceMessage.resources
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.csproj.GenerateResource.Cache
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.Service\obj\Debug\USBA.Service.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\ServiceMessage.resx
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\ServiceMessage.Designer.cs
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Service.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Service.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\EntityFramework.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\itextsharp.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\MoreLinq.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.CachingService.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Core.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Data.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.LoggerService.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Model.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\log4net.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.CachingService.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Core.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Data.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.LoggerService.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Model.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\USBA.Model.dll.config
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\EntityFramework.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\itextsharp.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\MoreLinq.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\EntityFramework.BulkInsert.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\log4net.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\bin\Debug\EntityFramework.MappingAPI.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\obj\Debug\USBA.Service.csprojResolveAssemblyReference.cache
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\obj\Debug\USBA.Service.ServiceMessage.resources
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\obj\Debug\USBA.Service.csproj.GenerateResource.Cache
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\obj\Debug\USBA.Service.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\obj\Debug\USBA.Service.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.Service\obj\Debug\USBA.Service.pdb

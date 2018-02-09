@@ -1,0 +1,35 @@
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\USBA.LoggerService.dll
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\USBA.LoggerService.pdb
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\itextsharp.dll
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\log4net.dll
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\MoreLinq.dll
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\itextsharp.xml
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\log4net.xml
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\MoreLinq.xml
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.csprojResolveAssemblyReference.cache
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.dll
+D:\USBA 27\USBA\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\USBA.LoggerService.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\USBA.LoggerService.pdb
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\itextsharp.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\log4net.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\MoreLinq.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\itextsharp.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\log4net.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\bin\Debug\MoreLinq.xml
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.csprojResolveAssemblyReference.cache
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.dll
+C:\Users\Hello\Dropbox\Accentech\New folder\USBA 27\USBA\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\bin\Debug\USBA.LoggerService.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\bin\Debug\USBA.LoggerService.pdb
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\bin\Debug\itextsharp.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\bin\Debug\log4net.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\bin\Debug\MoreLinq.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\bin\Debug\itextsharp.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\bin\Debug\log4net.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\bin\Debug\MoreLinq.xml
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.csprojResolveAssemblyReference.cache
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.dll
+C:\Users\Hello\Desktop\again\SourceCode\USBA.LoggerService\obj\Debug\USBA.LoggerService.pdb
