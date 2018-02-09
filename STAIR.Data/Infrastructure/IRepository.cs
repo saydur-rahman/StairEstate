@@ -16,6 +16,6 @@ namespace STAIR.Data.Infrastructure
         T Get(Expression<Func<T, bool>> where);
         IEnumerable<T> GetAll();
         IEnumerable<T> GetMany(Expression<Func<T, bool>> where);
-        void BulkSave(List<T> entities);
+        void BulkSave(List<T> entities);       
     }
-}
+}                                               

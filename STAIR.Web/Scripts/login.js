@@ -36,7 +36,7 @@ function loginMain() {
                 //localStorage.usertypeid = JSON.parse(msg.d).usertypeid;
                 //localStorage.fullname = JSON.parse(msg.d).fullname;
                 localStorage.user = msg.d;
-                location.replace("Dashboard");
+                location.replace("Dashboard/Index");
             }
             catch (ex) {
                 alert("wrong password");

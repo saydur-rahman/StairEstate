@@ -88,6 +88,7 @@
     <Compile Include="Infrastructure\UnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\ActionLogRepository.cs" />
+    <Compile Include="Repository\sys_menuRepository.cs" />
     <Compile Include="Repository\sys_userRepository.cs" />
     <Compile Include="Repository\sys_user_typeRepository.cs" />
   </ItemGroup>

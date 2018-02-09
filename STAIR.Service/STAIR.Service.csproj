@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="ActionLogService.cs" />
     <Compile Include="Enums\Enums.cs" />
+    <Compile Include="sys_menuService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SecurityService.cs" />
     <Compile Include="sys_userService.cs" />

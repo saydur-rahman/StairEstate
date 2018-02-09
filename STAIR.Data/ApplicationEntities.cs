@@ -47,7 +47,9 @@ namespace STAIR.Data.Models
             modelBuilder.Configurations.Add(new sys_user_menu_accessMap());
             modelBuilder.Configurations.Add(new sys_user_typeMap());
             // Remove metadata convention
+#pragma warning disable CS0618 // Type or member is obsolete
             modelBuilder.Conventions.Remove<IncludeMetadataConvention>();
+#pragma warning restore CS0618 // Type or member is obsolete
 
             // Remove the pluralization
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();

@@ -10,3 +10,15 @@ C:\Users\Hello\Desktop\again\SourceCode\STAIR.LoggerService\bin\Debug\STAIR.Logg
 C:\Users\Hello\Desktop\again\SourceCode\STAIR.LoggerService\bin\Debug\STAIR.LoggerService.pdb
 C:\Users\Hello\Desktop\again\SourceCode\STAIR.LoggerService\obj\Debug\STAIR.LoggerService.dll
 C:\Users\Hello\Desktop\again\SourceCode\STAIR.LoggerService\obj\Debug\STAIR.LoggerService.pdb
+C:\Projects\StairEstate\STAIR.LoggerService\bin\Debug\STAIR.LoggerService.dll
+C:\Projects\StairEstate\STAIR.LoggerService\bin\Debug\STAIR.LoggerService.pdb
+C:\Projects\StairEstate\STAIR.LoggerService\bin\Debug\itextsharp.dll
+C:\Projects\StairEstate\STAIR.LoggerService\bin\Debug\log4net.dll
+C:\Projects\StairEstate\STAIR.LoggerService\bin\Debug\MoreLinq.dll
+C:\Projects\StairEstate\STAIR.LoggerService\bin\Debug\itextsharp.xml
+C:\Projects\StairEstate\STAIR.LoggerService\bin\Debug\log4net.xml
+C:\Projects\StairEstate\STAIR.LoggerService\bin\Debug\MoreLinq.xml
+C:\Projects\StairEstate\STAIR.LoggerService\obj\Debug\STAIR.LoggerService.csprojResolveAssemblyReference.cache
+C:\Projects\StairEstate\STAIR.LoggerService\obj\Debug\STAIR.LoggerService.csproj.CoreCompileInputs.cache
+C:\Projects\StairEstate\STAIR.LoggerService\obj\Debug\STAIR.LoggerService.dll
+C:\Projects\StairEstate\STAIR.LoggerService\obj\Debug\STAIR.LoggerService.pdb
