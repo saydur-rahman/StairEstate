@@ -1,0 +1,16 @@
+Order no: DMOA-1605000020
+Model name:9WGWDBBCL0040JBK-EESN
+
+
+
+part code (USB): 6095002818AE0A
+material receive serial:8AE0A
+
+
+part code (ADAPTER): 7011200238CR1
+material receive serial:8CR1 
+
+part code (HDD): 79130254W08R1G
+material serial:8R1i
+
+PIDSN:8R1i
