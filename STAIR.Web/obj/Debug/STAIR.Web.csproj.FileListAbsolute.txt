@@ -1,0 +1,4 @@
+C:\work\StairEstate\STAIR.Web\obj\Debug\STAIR.Web.csprojResolveAssemblyReference.cache
+C:\work\StairEstate\STAIR.Web\obj\Debug\STAIR.Web.App_GlobalResources.ResourceCommon.resources
+C:\work\StairEstate\STAIR.Web\obj\Debug\STAIR.Web.csproj.GenerateResource.Cache
+C:\work\StairEstate\STAIR.Web\obj\Debug\STAIR.Web.csproj.CoreCompileInputs.cache
