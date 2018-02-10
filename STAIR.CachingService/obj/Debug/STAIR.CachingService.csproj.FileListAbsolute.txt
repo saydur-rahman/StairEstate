@@ -14,7 +14,7 @@ C:\Projects\StairEstate\STAIR.CachingService\bin\Debug\itextsharp.dll
 C:\Projects\StairEstate\STAIR.CachingService\bin\Debug\MoreLinq.dll
 C:\Projects\StairEstate\STAIR.CachingService\bin\Debug\itextsharp.xml
 C:\Projects\StairEstate\STAIR.CachingService\bin\Debug\MoreLinq.xml
-C:\Projects\StairEstate\STAIR.CachingService\obj\Debug\STAIR.CachingService.csprojResolveAssemblyReference.cache
 C:\Projects\StairEstate\STAIR.CachingService\obj\Debug\STAIR.CachingService.csproj.CoreCompileInputs.cache
 C:\Projects\StairEstate\STAIR.CachingService\obj\Debug\STAIR.CachingService.dll
 C:\Projects\StairEstate\STAIR.CachingService\obj\Debug\STAIR.CachingService.pdb
+C:\Projects\StairEstate\STAIR.CachingService\obj\Debug\STAIR.CachingService.csprojResolveAssemblyReference.cache

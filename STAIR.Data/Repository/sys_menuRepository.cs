@@ -14,7 +14,7 @@ namespace STAIR.Data.Repository
 
     }
 
-    internal class sys_menuRepository : RepositoryBase<sys_menu>, Isys_menuRepository
+    public class sys_menuRepository : RepositoryBase<sys_menu>, Isys_menuRepository
     {
         protected sys_menuRepository(IDatabaseFactory databaseFactory) : base(databaseFactory)
         {

@@ -60,7 +60,7 @@
                     <a href="javascript:void(0);" class="bars"></a>
                     <a class="navbar-brand" href="index.html">StairPack - Customer Tracker</a>
                 </div>
-                @*<div class="collapse navbar-collapse" id="navbar-collapse">
+                <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <!-- Call Search -->
                         <li><a href="javascript:void(0);" class="js-search" data-close="true"><i class="material-icons">search</i></a></li>
@@ -254,7 +254,7 @@
                         <!-- #END# Tasks -->
                         <li class="pull-right"><a href="javascript:void(0);" class="js-right-sidebar" data-close="true"><i class="material-icons">more_vert</i></a></li>
                     </ul>
-                </div>*@
+                </div>
             </div>
         </nav>
         <!-- #Top Bar -->
@@ -288,37 +288,35 @@
                 <div class="menu">
                     <ul class="list">
                         <li class="header">MAIN NAVIGATION</li>
-                        <li class="active">
-                            <a href="Home">
-                                <i class="material-icons">home</i>
-                                <span>Home</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0);" class="menu-toggle">
-                                <i class="material-icons">widgets</i>
-                                <span>Test Menu</span>
-                            </a>
-                            <ul class="ml-menu">
-                                <li>
-                                    <a href="javascript:void(0);" class="menu-toggle">
-                                        <span>Menu</span>
-                                    </a>
-                                    <ul class="ml-menu">
-                                        <li>
-                                            <a class="menu-element" source="pages/widgets/cards/basic.html" title='Basic'>Basic</a>
-                                        </li>
-                                        <li>
-                                            <a class="menu-element" source="pages/widgets/cards/colored.html" title='Colored'>Colored</a>
-                                        </li>
-                                        <li>
-                                            <a class="menu-element" source="pages/widgets/cards/no-header.html" title='No Header'>No Header</a>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                            </ul>
-                        </li>
+                        @{
+                            foreach(var menu in ViewBag.Menus)
+                            {
+                                if (menu.menu_parent == null)
+                                {
+                                    <li class="active" >
+                                        <a href=@menu.menu_link class="menu-toggle">
+                                            @*<i class="material-icons">@menu.menu_name</i>*@
+                                            <span>@menu.menu_name</span>
+                                        </a>
+                                    
+                                        <ul class="ml-menu">
+                                        @foreach (var subMenu in ViewBag.Menus)
+                                        {
+                                            if (subMenu.menu_parent == menu.menu_id.ToString())
+                                            {
+                                                <li>
+                                                    <a href=@subMenu.menu_link >
+                                                    @*<i class="material-icons">@subMenu.menu_name</i>*@
+                                                    <span>@subMenu.menu_name</span>
+                                                    </a>
+                                                </li>
+                                            }
+                                        }
+                                        </ul>
+                                    </li>
+                                }
+                            }
+                        }
                         
                     </ul>
                 </div>

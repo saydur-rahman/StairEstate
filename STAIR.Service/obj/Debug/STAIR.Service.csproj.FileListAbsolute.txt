@@ -85,7 +85,6 @@ C:\Projects\StairEstate\STAIR.Service\bin\Debug\STAIR.Core.dll
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\STAIR.Data.dll
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\STAIR.LoggerService.dll
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\STAIR.Model.dll
-C:\Projects\StairEstate\STAIR.Service\bin\Debug\System.Web.Mvc.dll
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\EntityFramework.BulkInsert.dll
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\log4net.dll
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\EntityFramework.MappingAPI.dll
@@ -101,7 +100,6 @@ C:\Projects\StairEstate\STAIR.Service\bin\Debug\itextsharp.xml
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\MoreLinq.xml
-C:\Projects\StairEstate\STAIR.Service\bin\Debug\System.Web.Mvc.xml
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\EntityFramework.BulkInsert.pdb
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\log4net.xml
 C:\Projects\StairEstate\STAIR.Service\bin\Debug\EntityFramework.MappingAPI.pdb

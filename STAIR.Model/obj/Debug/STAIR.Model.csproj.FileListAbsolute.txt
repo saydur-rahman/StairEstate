@@ -56,7 +56,7 @@ C:\Projects\StairEstate\STAIR.Model\bin\Debug\itextsharp.xml
 C:\Projects\StairEstate\STAIR.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Projects\StairEstate\STAIR.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Projects\StairEstate\STAIR.Model\bin\Debug\MoreLinq.xml
-C:\Projects\StairEstate\STAIR.Model\obj\Debug\STAIR.Model.csprojResolveAssemblyReference.cache
 C:\Projects\StairEstate\STAIR.Model\obj\Debug\STAIR.Model.csproj.CoreCompileInputs.cache
 C:\Projects\StairEstate\STAIR.Model\obj\Debug\STAIR.Model.dll
 C:\Projects\StairEstate\STAIR.Model\obj\Debug\STAIR.Model.pdb
+C:\Projects\StairEstate\STAIR.Model\obj\Debug\STAIR.Model.csprojResolveAssemblyReference.cache

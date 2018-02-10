@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace STAIR.Service
 {
-    class sys_menuService : Isys_menuService
+    public class sys_menuService : Isys_menuService
     {
         private readonly Isys_menuRepository sys_MenuRepository;
         private readonly IUnitOfWork unitOfWork;
@@ -30,7 +30,7 @@ namespace STAIR.Service
 
         public IEnumerable<sys_menu> GetAllMenuForUser(int id)
         {
-            throw new Exception();
+            return sys_MenuRepository.GetAll().ToList();
         }
     }
 

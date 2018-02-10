@@ -250,3 +250,6 @@ C:\Projects\StairEstate\STAIR.Web\obj\Debug\STAIR.Web.csproj.GenerateResource.Ca
 C:\Projects\StairEstate\STAIR.Web\obj\Debug\STAIR.Web.csproj.CoreCompileInputs.cache
 C:\Projects\StairEstate\STAIR.Web\obj\Debug\STAIR.Web.dll
 C:\Projects\StairEstate\STAIR.Web\obj\Debug\STAIR.Web.pdb
+C:\Projects\StairEstate\STAIR.Web\bin\Unity.Abstractions.dll
+C:\Projects\StairEstate\STAIR.Web\bin\Unity.Container.dll
+C:\Projects\StairEstate\STAIR.Web\bin\WebActivatorEx.dll
